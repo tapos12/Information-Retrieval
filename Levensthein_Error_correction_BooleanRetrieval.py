@@ -1,5 +1,5 @@
 """
-@author: Touhidul Alam (3293940)
+@author: Touhidul Alam
 """
 
 from nltk import wordpunct_tokenize
