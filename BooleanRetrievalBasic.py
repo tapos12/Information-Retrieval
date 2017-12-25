@@ -1,5 +1,5 @@
 """
-@author: Anna Khlyzova (3293584), Cennet Oguz (3234475) and Touhidul Alam (3293940)
+@author: Anna Khlyzova, Cennet Oguz and Touhidul Alam
 """
 
 from nltk import wordpunct_tokenize
